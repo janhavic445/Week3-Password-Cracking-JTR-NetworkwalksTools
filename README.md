@@ -70,7 +70,7 @@ password1
 
 ### Screenshot
 
-![Password Cracked Successfully](screenshots/02-password-cracked-successfully.png)
+![Password Cracked Successfully](screenshots/02-password-cracked-successfully.png.jpeg)
 
 ---
 
@@ -84,7 +84,7 @@ The first PDF confirmation screen displayed the following captured flag:
 nw{cybersecurity_flag_captured_2608}
 ```
 
-![First Flag Captured](screenshots/01-networkwalks-flag-captured.png)
+![First Flag Captured](screenshots/01-networkwalks-flag-captured.png.jpeg)
 
 ### Flag 2
 
@@ -94,7 +94,7 @@ The second PDF confirmation screen displayed the following flag:
 nw{networkwalks_flag1_jr_270521_1}
 ```
 
-![Second Flag Captured](screenshots/03-networkwalks-flag-1.png)
+![Second Flag Captured](screenshots/03-networkwalks-flag-1.png.jpeg)
 
 ---
 
